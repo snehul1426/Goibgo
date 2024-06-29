@@ -1,0 +1,303 @@
+.container{
+    width: 100%;
+    height: 100%;
+    margin-top: 130px;
+    
+}
+
+.hjyyPz {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+}
+
+.khacGO {
+    max-height: 800px;
+    overflow-y: auto;
+}
+
+.cjcrGc {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    width: 100%;
+}
+
+.gAYmvm {
+    width: 343px;
+    height: 432px;
+    border-radius: 20px 0px 0px 20px;
+    flex-shrink: 0;
+    overflow: hidden;
+    padding: 22px 20px 30px;
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    background: linear-gradient(197.24deg, rgb(194, 212, 255) 16.45%, rgb(251, 241, 255) 39.26%, rgb(234, 243, 243) 59.99%);
+    cursor: auto;
+}
+
+.hTmOkU {
+    animation: auto ease 0s 1 normal none running ZxvMK;
+}
+
+.eTrrOa {
+    line-height: normal;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: rgb(20, 24, 35);
+    margin-bottom: 30px;
+    margin-top: 10px;
+}
+
+h1, h2, h3, h4, h5, h6, p, ul {
+    margin: 0px;
+    list-style: none;
+    padding: 0px;
+}
+
+.ftTcoJ {
+    line-height: normal;
+    font-size: 14px;
+    font-weight: 500;
+    color: rgb(79, 82, 90);
+    margin-top: 30px;
+}
+
+.lbwmhl {
+    margin-top: 15px;
+    margin-left: -6px;
+}
+
+.dTkgVc {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 30px;
+}
+
+.cIRKLc {
+    width: 52px;
+    height: 52px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 20px;
+    background: url(https://gos3.ibcdn.com/go-cash-icon-1674207238.png) center center no-repeat;
+    cursor: pointer;
+    margin-top: -10px;
+}
+
+.dTkgVc .benefitsList_item_wrapper {
+    flex: 1 1 0%;
+}
+
+.HPAIO {
+    line-height: normal;
+    font-size: 18px;
+    font-weight: 600;
+    color: rgb(70, 72, 77);
+    margin-bottom: 6px;
+}
+
+.dzppXO {
+    line-height: normal;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(70, 72, 77);
+}
+
+.eAxJsC {
+    border-bottom: 1px solid rgb(205, 205, 205);
+    margin-top: 20px;
+}
+
+.lbgGSo {
+    width: 52px;
+    height: 52px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 20px;
+    background: url(https://gos3.ibcdn.com/gotribe-logo-1674203779.png) center center no-repeat;
+    cursor: pointer;
+    margin-top: -10px;
+}
+
+
+.cYGIoJ {
+    width: 52px;
+    height: 52px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    flex-shrink: 0;
+    margin-right: 20px;
+    background: url(https://gos3.ibcdn.com/surprice-offer-icon-1674203743.png) center center no-repeat;
+    cursor: pointer;
+    margin-top: -10px;
+}
+
+.cZvDPc {
+    width: 350px;
+    height: 436px;
+    border-radius: 12px;
+    overflow: hidden;
+    flex-shrink: 0;
+    box-shadow: rgba(0, 0, 0, 0.2) -5px 0px 9px 0px;
+    background-color: rgb(255, 255, 255);
+    padding: 50px 50px 30px;
+    position: relative;
+}
+
+.bGTcbn {
+    width: 24px;
+    height: 24px;
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+    position: absolute;
+    right: 22px;
+    top: 22px;
+}
+
+.logSprite.icClose {
+    width: 16px;
+    height: 16px;
+    background-position: -180px -8px;
+    cursor: pointer;
+}
+
+.logSprite {
+    display: inline-block;
+    font-size: 0px;
+    flex-shrink: 0;
+    background: url(https://gos3.ibcdn.com/happy-sprite-1608708553.png) 0% 0% / 300px 300px no-repeat;
+}
+
+.bwDIOk {
+    display: flex;
+    flex-direction: column;
+    -webkit-box-pack: justify;
+    justify-content: space-between;
+    height: 100%;
+    position: relative;
+}
+
+.isawOS {
+    color: rgb(0, 0, 0);
+    line-height: normal;
+    font-size: 22px;
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.jHijhh {
+    height: 56px;
+    border-radius: 4px;
+    border: 2px solid rgb(1, 110, 255);
+    position: relative;
+    display: flex;
+}
+
+.jHijhh .loginCont__label {
+    display: inline-flex;
+    position: absolute;
+    left: 11px;
+    top: -11px;
+    background-color: rgb(255, 255, 255);
+    padding: 3px 8px;
+    line-height: normal;
+    font-size: 12px;
+    font-weight: 400;
+    color: rgb(1, 110, 255);
+}
+
+.jHijhh .loginCont__code {
+    background: rgb(255, 255, 255);
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(194, 194, 194);
+    display: inline-flex;
+    padding: 0px 5px 0px 20px;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-shrink: 0;
+}
+
+.jHijhh .loginCont__input {
+    background: rgb(255, 255, 255);
+    width: 100%;
+    border: 0px;
+    outline: 0px;
+    line-height: normal;
+    font-size: 16px;
+    font-weight: 500;
+    color: rgb(79, 82, 90);
+    padding-left: 5px;
+    border-radius: 0px 4px 4px 0px;
+}
+
+.goPNoH {
+    font-size: 12px;
+}
+
+.cYwnDu.disabled {
+    background-color: rgb(206, 206, 206);
+    pointer-events: none;
+}
+
+.cYwnDu {
+    width: 100%;
+    height: 44px;
+    padding: 13px 118px 13px 116px;
+    margin-top: 22px;
+    border-radius: 8px;
+    background-color: rgb(255, 109, 56);
+    color: rgb(255, 255, 255);
+    outline: 0px;
+    border: 0px;
+    cursor: pointer;
+    line-height: normal;
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.jFZtLs {
+    line-height: normal;
+    font-size: 15px;
+    font-weight: 400;
+    margin-top: 50px;
+}
+
+a {
+    color: rgb(0, 140, 255);
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.eCzTrX {
+    margin-top: 50px;
+    background: rgb(255, 255, 255);
+    box-shadow: rgba(0, 0, 0, 0.08) 2px 4px 8px;
+    border-radius: 2px;
+    padding: 10px 20px;
+    border-left: 6px solid rgb(28, 114, 226);
+    width: 303px;
+}
